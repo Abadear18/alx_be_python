@@ -1,6 +1,4 @@
-# simple_interest.py
 
-# Define the variables
 principal = 1000
 rate = 0.05
 time = 3
